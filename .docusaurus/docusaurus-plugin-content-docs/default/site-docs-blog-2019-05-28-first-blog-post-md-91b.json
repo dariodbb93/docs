@@ -1,0 +1,45 @@
+{
+  "unversionedId": "blog/2019-05-28-first-blog-post",
+  "id": "blog/2019-05-28-first-blog-post",
+  "title": "First Blog Post",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+  "source": "@site/docs/blog/2019-05-28-first-blog-post.md",
+  "sourceDirName": "blog",
+  "slug": "/blog/first-blog-post",
+  "permalink": "/docs/blog/first-blog-post",
+  "draft": false,
+  "tags": [
+    {
+      "label": "hola",
+      "permalink": "/docs/tags/hola"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/docs/tags/docusaurus"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "first-blog-post",
+    "title": "First Blog Post",
+    "authors": {
+      "name": "Gao Wei",
+      "title": "Docusaurus Core Team",
+      "url": "https://github.com/wgao19",
+      "image_url": "https://github.com/wgao19.png"
+    },
+    "tags": [
+      "hola",
+      "docusaurus"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dado elettronico in C",
+    "permalink": "/docs/C/lancio-di-dadi"
+  },
+  "next": {
+    "title": "Long Blog Post",
+    "permalink": "/docs/blog/long-blog-post"
+  }
+}

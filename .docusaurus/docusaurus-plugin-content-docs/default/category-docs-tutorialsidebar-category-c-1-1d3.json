@@ -1,0 +1,16 @@
+{
+  "title": "C",
+  "description": "Qui puoi trovare le mie certificazioni",
+  "slug": "/category/c-1",
+  "permalink": "/docs/category/c-1",
+  "navigation": {
+    "previous": {
+      "title": "Introduzione al framework",
+      "permalink": "/docs/laravel/route"
+    },
+    "next": {
+      "title": "Curriculum",
+      "permalink": "/docs/curriculum/"
+    }
+  }
+}

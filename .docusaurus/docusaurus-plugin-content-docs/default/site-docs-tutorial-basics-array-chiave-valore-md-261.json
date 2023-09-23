@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/array-chiave-valore",
+  "id": "tutorial-basics/array-chiave-valore",
+  "title": "Array chiave - valore in PHP",
+  "description": "1. Array in chiave - valore in PHP",
+  "source": "@site/docs/tutorial-basics/array-chiave-valore.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/array-chiave-valore",
+  "permalink": "/docs/tutorial-basics/array-chiave-valore",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Array in PHP: concetti generali",
+    "permalink": "/docs/tutorial-basics/array-in-php"
+  },
+  "next": {
+    "title": "Classi e oggetti in PHP",
+    "permalink": "/docs/tutorial-basics/classi-oggetti"
+  }
+}

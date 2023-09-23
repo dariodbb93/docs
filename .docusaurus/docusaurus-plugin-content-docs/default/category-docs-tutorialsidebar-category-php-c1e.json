@@ -1,0 +1,16 @@
+{
+  "title": "PHP",
+  "description": "Qui puoi trovare le guide relative al linguaggio di scripting PHP.",
+  "slug": "/category/php",
+  "permalink": "/docs/category/php",
+  "navigation": {
+    "previous": {
+      "title": "About me",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Array in PHP: concetti generali",
+      "permalink": "/docs/tutorial-basics/array-in-php"
+    }
+  }
+}

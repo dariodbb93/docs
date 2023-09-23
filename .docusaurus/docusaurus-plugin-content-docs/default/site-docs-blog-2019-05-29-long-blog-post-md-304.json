@@ -1,0 +1,40 @@
+{
+  "unversionedId": "blog/2019-05-29-long-blog-post",
+  "id": "blog/2019-05-29-long-blog-post",
+  "title": "Long Blog Post",
+  "description": "This is the summary of a very long blog post,",
+  "source": "@site/docs/blog/2019-05-29-long-blog-post.md",
+  "sourceDirName": "blog",
+  "slug": "/blog/long-blog-post",
+  "permalink": "/docs/blog/long-blog-post",
+  "draft": false,
+  "tags": [
+    {
+      "label": "hello",
+      "permalink": "/docs/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/docs/tags/docusaurus"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "long-blog-post",
+    "title": "Long Blog Post",
+    "authors": "endi",
+    "tags": [
+      "hello",
+      "docusaurus"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "First Blog Post",
+    "permalink": "/docs/blog/first-blog-post"
+  },
+  "next": {
+    "title": "MDX Blog Post",
+    "permalink": "/docs/blog/mdx-blog-post"
+  }
+}

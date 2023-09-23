@@ -1,0 +1,16 @@
+{
+  "title": "Curriculum",
+  "description": "Qui puoi trovare le mie certificazioni",
+  "slug": "/category/curriculum",
+  "permalink": "/docs/category/curriculum",
+  "navigation": {
+    "previous": {
+      "title": "Dado elettronico in C-Sharp",
+      "permalink": "/docs/C-Sharp/lancio-di-dadi"
+    },
+    "next": {
+      "title": "Curriculum personale",
+      "permalink": "/docs/curriculum/"
+    }
+  }
+}

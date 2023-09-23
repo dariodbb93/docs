@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-extras/oggetti",
+  "id": "tutorial-extras/oggetti",
+  "title": "Proprietà e metodi nel linguaggio Java",
+  "description": "1. Programmazione orientata agli oggetti in Java",
+  "source": "@site/docs/tutorial-extras/oggetti.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/oggetti",
+  "permalink": "/docs/tutorial-extras/oggetti",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Java",
+    "permalink": "/docs/category/java"
+  },
+  "next": {
+    "title": "Basi di dati relazionali",
+    "permalink": "/docs/category/basi-di-dati-relazionali"
+  }
+}

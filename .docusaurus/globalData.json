@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "basi-dati/sql",
+              "path": "/docs/basi-dati/sql",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "C-Sharp/lancio-di-dadi",
+              "path": "/docs/C-Sharp/lancio-di-dadi",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "curriculum/curriculum",
+              "path": "/docs/curriculum/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/array-chiave-valore",
+              "path": "/docs/tutorial-basics/array-chiave-valore",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/array-in-php",
+              "path": "/docs/tutorial-basics/array-in-php",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/classi-oggetti",
+              "path": "/docs/tutorial-basics/classi-oggetti",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/oggetti",
+              "path": "/docs/tutorial-extras/oggetti",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/php",
+              "path": "/docs/category/php",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/java",
+              "path": "/docs/category/java",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/basi-di-dati-relazionali",
+              "path": "/docs/category/basi-di-dati-relazionali",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/c",
+              "path": "/docs/category/c",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/curriculum",
+              "path": "/docs/category/curriculum",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

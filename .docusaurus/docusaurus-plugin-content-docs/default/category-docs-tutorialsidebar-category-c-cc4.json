@@ -1,0 +1,16 @@
+{
+  "title": "C#",
+  "description": "Qui puoi trovare le guide relative al linguaggio C#",
+  "slug": "/category/c",
+  "permalink": "/docs/category/c",
+  "navigation": {
+    "previous": {
+      "title": "Basi di dati relazionali",
+      "permalink": "/docs/basi-dati/sql"
+    },
+    "next": {
+      "title": "Dado elettronico in C-Sharp",
+      "permalink": "/docs/C-Sharp/lancio-di-dadi"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "basi-dati/sql",
+  "id": "basi-dati/sql",
+  "title": "Basi di dati relazionali",
+  "description": "1. Principi generali",
+  "source": "@site/docs/basi-dati/sql.md",
+  "sourceDirName": "basi-dati",
+  "slug": "/basi-dati/sql",
+  "permalink": "/docs/basi-dati/sql",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basi di dati relazionali",
+    "permalink": "/docs/category/basi-di-dati-relazionali"
+  },
+  "next": {
+    "title": "C#",
+    "permalink": "/docs/category/c"
+  }
+}

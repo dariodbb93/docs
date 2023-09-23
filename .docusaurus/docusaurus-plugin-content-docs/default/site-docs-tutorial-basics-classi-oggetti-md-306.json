@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/classi-oggetti",
+  "id": "tutorial-basics/classi-oggetti",
+  "title": "Classi e oggetti in PHP",
+  "description": "1. Concetti generali",
+  "source": "@site/docs/tutorial-basics/classi-oggetti.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/classi-oggetti",
+  "permalink": "/docs/tutorial-basics/classi-oggetti",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Array chiave - valore in PHP",
+    "permalink": "/docs/tutorial-basics/array-chiave-valore"
+  },
+  "next": {
+    "title": "Java",
+    "permalink": "/docs/category/java"
+  }
+}

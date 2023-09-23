@@ -1,0 +1,26 @@
+{
+  "unversionedId": "C-Sharp/lancio-di-dadi",
+  "id": "C-Sharp/lancio-di-dadi",
+  "title": "Dado elettronico in C-Sharp",
+  "description": "Vediamo come creare un programma che dato in input un numero intero (quante volte voglio lanciare un",
+  "source": "@site/docs/C-Sharp/lancio-di-dadi.md",
+  "sourceDirName": "C-Sharp",
+  "slug": "/C-Sharp/lancio-di-dadi",
+  "permalink": "/docs/C-Sharp/lancio-di-dadi",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "C#",
+    "permalink": "/docs/category/c"
+  },
+  "next": {
+    "title": "Curriculum",
+    "permalink": "/docs/category/curriculum"
+  }
+}

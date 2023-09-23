@@ -1,0 +1,157 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "About me",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "PHP",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Array in PHP: concetti generali",
+            "href": "/docs/tutorial-basics/array-in-php",
+            "docId": "tutorial-basics/array-in-php"
+          },
+          {
+            "type": "link",
+            "label": "Array chiave - valore in PHP",
+            "href": "/docs/tutorial-basics/array-chiave-valore",
+            "docId": "tutorial-basics/array-chiave-valore"
+          },
+          {
+            "type": "link",
+            "label": "Classi e oggetti in PHP",
+            "href": "/docs/tutorial-basics/classi-oggetti",
+            "docId": "tutorial-basics/classi-oggetti"
+          }
+        ],
+        "href": "/docs/category/php"
+      },
+      {
+        "type": "category",
+        "label": "Java",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Proprietà e metodi nel linguaggio Java",
+            "href": "/docs/tutorial-extras/oggetti",
+            "docId": "tutorial-extras/oggetti"
+          }
+        ],
+        "href": "/docs/category/java"
+      },
+      {
+        "type": "category",
+        "label": "Basi di dati relazionali",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Basi di dati relazionali",
+            "href": "/docs/basi-dati/sql",
+            "docId": "basi-dati/sql"
+          }
+        ],
+        "href": "/docs/category/basi-di-dati-relazionali"
+      },
+      {
+        "type": "category",
+        "label": "C#",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Dado elettronico in C-Sharp",
+            "href": "/docs/C-Sharp/lancio-di-dadi",
+            "docId": "C-Sharp/lancio-di-dadi"
+          }
+        ],
+        "href": "/docs/category/c"
+      },
+      {
+        "type": "category",
+        "label": "Curriculum",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Curriculum personale",
+            "href": "/docs/curriculum/",
+            "docId": "curriculum/curriculum"
+          }
+        ],
+        "href": "/docs/category/curriculum"
+      }
+    ]
+  },
+  "docs": {
+    "basi-dati/sql": {
+      "id": "basi-dati/sql",
+      "title": "Basi di dati relazionali",
+      "description": "1. Principi generali",
+      "sidebar": "tutorialSidebar"
+    },
+    "C-Sharp/lancio-di-dadi": {
+      "id": "C-Sharp/lancio-di-dadi",
+      "title": "Dado elettronico in C-Sharp",
+      "description": "Vediamo come creare un programma che dato in input un numero intero (quante volte voglio lanciare un",
+      "sidebar": "tutorialSidebar"
+    },
+    "curriculum/curriculum": {
+      "id": "curriculum/curriculum",
+      "title": "Curriculum personale",
+      "description": "* 2017 - Laurea in Economia Aziendale Link",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "About me",
+      "description": "me.jpg",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/array-chiave-valore": {
+      "id": "tutorial-basics/array-chiave-valore",
+      "title": "Array chiave - valore in PHP",
+      "description": "1. Array in chiave - valore in PHP",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/array-in-php": {
+      "id": "tutorial-basics/array-in-php",
+      "title": "Array in PHP: concetti generali",
+      "description": "1. Array in PHP",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/classi-oggetti": {
+      "id": "tutorial-basics/classi-oggetti",
+      "title": "Classi e oggetti in PHP",
+      "description": "1. Concetti generali",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/oggetti": {
+      "id": "tutorial-extras/oggetti",
+      "title": "Proprietà e metodi nel linguaggio Java",
+      "description": "1. Programmazione orientata agli oggetti in Java",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Laravel",
+  "description": "Qui puoi trovare le guide relative al framework Laravel basato su PHP.",
+  "slug": "/category/laravel",
+  "permalink": "/docs/category/laravel",
+  "navigation": {
+    "previous": {
+      "title": "Dado elettronico in C-Sharp",
+      "permalink": "/docs/C-Sharp/lancio-di-dadi"
+    },
+    "next": {
+      "title": "Introduzione al framework",
+      "permalink": "/docs/laravel/route"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "unversionedId": "blog/2021-08-26-welcome/index",
+  "id": "blog/2021-08-26-welcome/index",
+  "title": "Welcome",
+  "description": "Docusaurus blogging features are powered by the blog plugin.",
+  "source": "@site/docs/blog/2021-08-26-welcome/index.md",
+  "sourceDirName": "blog/2021-08-26-welcome",
+  "slug": "/blog/2021-08-26-welcome/welcome",
+  "permalink": "/docs/blog/2021-08-26-welcome/welcome",
+  "draft": false,
+  "tags": [
+    {
+      "label": "facebook",
+      "permalink": "/docs/tags/facebook"
+    },
+    {
+      "label": "hello",
+      "permalink": "/docs/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/docs/tags/docusaurus"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome",
+    "authors": [
+      "slorber",
+      "yangshun"
+    ],
+    "tags": [
+      "facebook",
+      "hello",
+      "docusaurus"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MDX Blog Post",
+    "permalink": "/docs/blog/mdx-blog-post"
+  }
+}
