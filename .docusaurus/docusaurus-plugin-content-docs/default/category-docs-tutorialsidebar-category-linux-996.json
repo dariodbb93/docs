@@ -1,0 +1,16 @@
+{
+  "title": "Linux",
+  "description": "Qui puoi trovare le guide relative a Linux",
+  "slug": "/category/linux",
+  "permalink": "/docs/category/linux",
+  "navigation": {
+    "previous": {
+      "title": "Curriculum personale",
+      "permalink": "/docs/curriculum/"
+    },
+    "next": {
+      "title": "Installazione di un hosting Linux",
+      "permalink": "/docs/LInux/installazione-server"
+    }
+  }
+}

@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'ce4'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '9a8'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'b27'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'beb'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '545'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '6a1'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '5c4'),
-    exact: true
-  },
-  {
     path: '/blog',
     component: ComponentCreator('/blog', '989'),
     exact: true
@@ -99,7 +64,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b80'),
+    component: ComponentCreator('/docs', 'c7e'),
     routes: [
       {
         path: '/docs/basi-dati/sql',
@@ -138,6 +103,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/category/linux',
+        component: ComponentCreator('/docs/category/linux', 'c77'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/category/php',
         component: ComponentCreator('/docs/category/php', '7bf'),
         exact: true,
@@ -152,6 +123,12 @@ export default [
       {
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro', 'aed'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/LInux/installazione-server',
+        component: ComponentCreator('/docs/LInux/installazione-server', 'b61'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

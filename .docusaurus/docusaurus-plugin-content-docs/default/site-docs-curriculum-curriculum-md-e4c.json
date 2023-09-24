@@ -18,5 +18,9 @@
   "previous": {
     "title": "Curriculum",
     "permalink": "/docs/category/curriculum"
+  },
+  "next": {
+    "title": "Linux",
+    "permalink": "/docs/category/linux"
   }
 }

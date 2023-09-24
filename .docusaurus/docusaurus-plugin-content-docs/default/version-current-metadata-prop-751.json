@@ -101,6 +101,21 @@
           }
         ],
         "href": "/docs/category/curriculum"
+      },
+      {
+        "type": "category",
+        "label": "Linux",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Installazione di un hosting Linux",
+            "href": "/docs/LInux/installazione-server",
+            "docId": "LInux/installazione-server"
+          }
+        ],
+        "href": "/docs/category/linux"
       }
     ]
   },
@@ -127,6 +142,12 @@
       "id": "intro",
       "title": "About me",
       "description": "me.jpg",
+      "sidebar": "tutorialSidebar"
+    },
+    "LInux/installazione-server": {
+      "id": "LInux/installazione-server",
+      "title": "Installazione di un hosting Linux",
+      "description": "1. Introduzione all'ambiente di produzione",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/array-chiave-valore": {

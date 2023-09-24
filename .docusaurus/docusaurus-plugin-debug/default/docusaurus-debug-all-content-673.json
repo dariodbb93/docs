@@ -89,6 +89,10 @@
               "previous": {
                 "title": "Curriculum",
                 "permalink": "/docs/category/curriculum"
+              },
+              "next": {
+                "title": "Linux",
+                "permalink": "/docs/category/linux"
               }
             },
             {
@@ -111,6 +115,28 @@
               "next": {
                 "title": "PHP",
                 "permalink": "/docs/category/php"
+              }
+            },
+            {
+              "unversionedId": "LInux/installazione-server",
+              "id": "LInux/installazione-server",
+              "title": "Installazione di un hosting Linux",
+              "description": "1. Introduzione all'ambiente di produzione",
+              "source": "@site/docs/LInux/installazione-server.md",
+              "sourceDirName": "LInux",
+              "slug": "/LInux/installazione-server",
+              "permalink": "/docs/LInux/installazione-server",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Linux",
+                "permalink": "/docs/category/linux"
               }
             },
             {
@@ -321,6 +347,24 @@
                   "description": "Qui puoi trovare le mie certificazioni",
                   "slug": "/category/curriculum",
                   "permalink": "/docs/category/curriculum"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Linux",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "LInux/installazione-server"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Qui puoi trovare le guide relative a Linux",
+                  "slug": "/category/linux",
+                  "permalink": "/docs/category/linux"
                 }
               }
             ]
