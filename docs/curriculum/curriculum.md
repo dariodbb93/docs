@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 # Curriculum personale
 
+* 2012 - Maturità tecnica
 * 2017 - Laurea in Economia Aziendale [Link](./laurea.pdf)
 * 2022 - Aulab Full Stack Developer [Link](./aulab.pdf)
 * 2023 - Hubspot Academy [Link](./hubspot.pdf)

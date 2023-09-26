@@ -143,7 +143,7 @@
     },
     "content": "393be207"
   },
-  "/docs-c7e": {
+  "/docs-c7d": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "3bf31efe"
@@ -170,6 +170,10 @@
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "f8259df9"
   },
+  "/docs/category/docker-14c": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "201178c4"
+  },
   "/docs/category/java-364": {
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "b5e13d68"
@@ -186,13 +190,21 @@
     "__comp": "17896441",
     "content": "e4c24231"
   },
+  "/docs/docker/sql-b7a": {
+    "__comp": "17896441",
+    "content": "d88ec249"
+  },
   "/docs/intro-aed": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/docs/LInux/installazione-server-b61": {
+  "/docs/Linux/installazione-composer-378": {
     "__comp": "17896441",
-    "content": "60f175d6"
+    "content": "079b7318"
+  },
+  "/docs/Linux/installazione-server-62e": {
+    "__comp": "17896441",
+    "content": "f1ecf110"
   },
   "/docs/tutorial-basics/array-chiave-valore-4ec": {
     "__comp": "17896441",

@@ -1,0 +1,16 @@
+{
+  "title": "Docker",
+  "description": "Qui puoi trovare le guide relative all'utilizzo dei container di Docker",
+  "slug": "/category/docker",
+  "permalink": "/docs/category/docker",
+  "navigation": {
+    "previous": {
+      "title": "Installazione del Composer in ambiente Linux",
+      "permalink": "/docs/Linux/installazione-composer"
+    },
+    "next": {
+      "title": "Docker",
+      "permalink": "/docs/docker/sql"
+    }
+  }
+}

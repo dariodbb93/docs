@@ -1,0 +1,16 @@
+{
+  "title": "Basi di dati relazionali",
+  "description": "Qui puoi trovare le guide relative alle basi di dati relazionali",
+  "slug": "/category/basi-di-dati-relazionali-1",
+  "permalink": "/docs/category/basi-di-dati-relazionali-1",
+  "navigation": {
+    "previous": {
+      "title": "Installazione di un hosting Linux",
+      "permalink": "/docs/LInux/installazione-server"
+    },
+    "next": {
+      "title": "Basi di dati relazionali",
+      "permalink": "/docs/docker/sql"
+    }
+  }
+}

@@ -18,5 +18,9 @@
   "previous": {
     "title": "Linux",
     "permalink": "/docs/category/linux"
+  },
+  "next": {
+    "title": "Docker",
+    "permalink": "/docs/category/docker"
   }
 }

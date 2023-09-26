@@ -1,0 +1,26 @@
+{
+  "unversionedId": "basi-dati copy/sql",
+  "id": "basi-dati copy/sql",
+  "title": "Basi di dati relazionali",
+  "description": "1. Principi generali",
+  "source": "@site/docs/basi-dati copy/sql.md",
+  "sourceDirName": "basi-dati copy",
+  "slug": "/basi-dati copy/sql",
+  "permalink": "/docs/basi-dati copy/sql",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basi di dati relazionali",
+    "permalink": "/docs/category/basi-di-dati-relazionali-1"
+  },
+  "next": {
+    "title": "C#",
+    "permalink": "/docs/category/c"
+  }
+}

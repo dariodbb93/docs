@@ -64,7 +64,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c7e'),
+    component: ComponentCreator('/docs', 'c7d'),
     routes: [
       {
         path: '/docs/basi-dati/sql',
@@ -97,6 +97,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/category/docker',
+        component: ComponentCreator('/docs/category/docker', '14c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/category/java',
         component: ComponentCreator('/docs/category/java', '364'),
         exact: true,
@@ -121,14 +127,26 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/docker/sql',
+        component: ComponentCreator('/docs/docker/sql', 'b7a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro', 'aed'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/LInux/installazione-server',
-        component: ComponentCreator('/docs/LInux/installazione-server', 'b61'),
+        path: '/docs/Linux/installazione-composer',
+        component: ComponentCreator('/docs/Linux/installazione-composer', '378'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Linux/installazione-server',
+        component: ComponentCreator('/docs/Linux/installazione-server', '62e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

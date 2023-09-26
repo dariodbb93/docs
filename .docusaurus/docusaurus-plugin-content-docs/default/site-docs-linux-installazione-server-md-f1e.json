@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Linux/installazione-server",
+  "id": "Linux/installazione-server",
+  "title": "Installazione di un hosting Linux",
+  "description": "1. Introduzione all'ambiente di produzione",
+  "source": "@site/docs/Linux/installazione-server.md",
+  "sourceDirName": "Linux",
+  "slug": "/Linux/installazione-server",
+  "permalink": "/docs/Linux/installazione-server",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Linux",
+    "permalink": "/docs/category/linux"
+  },
+  "next": {
+    "title": "Installazione del Composer in ambiente Linux",
+    "permalink": "/docs/Linux/installazione-composer"
+  }
+}

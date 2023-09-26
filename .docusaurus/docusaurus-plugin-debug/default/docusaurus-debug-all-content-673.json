@@ -96,6 +96,28 @@
               }
             },
             {
+              "unversionedId": "docker/sql",
+              "id": "docker/sql",
+              "title": "Docker",
+              "description": "1. Che cos'è Docker",
+              "source": "@site/docs/docker/sql.md",
+              "sourceDirName": "docker",
+              "slug": "/docker/sql",
+              "permalink": "/docs/docker/sql",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Docker",
+                "permalink": "/docs/category/docker"
+              }
+            },
+            {
               "unversionedId": "intro",
               "id": "intro",
               "title": "About me",
@@ -118,14 +140,40 @@
               }
             },
             {
-              "unversionedId": "LInux/installazione-server",
-              "id": "LInux/installazione-server",
+              "unversionedId": "Linux/installazione-composer",
+              "id": "Linux/installazione-composer",
+              "title": "Installazione del Composer in ambiente Linux",
+              "description": "1. Introduzione all'ambiente di sviluppo",
+              "source": "@site/docs/Linux/installazione-composer.md",
+              "sourceDirName": "Linux",
+              "slug": "/Linux/installazione-composer",
+              "permalink": "/docs/Linux/installazione-composer",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Installazione di un hosting Linux",
+                "permalink": "/docs/Linux/installazione-server"
+              },
+              "next": {
+                "title": "Docker",
+                "permalink": "/docs/category/docker"
+              }
+            },
+            {
+              "unversionedId": "Linux/installazione-server",
+              "id": "Linux/installazione-server",
               "title": "Installazione di un hosting Linux",
               "description": "1. Introduzione all'ambiente di produzione",
-              "source": "@site/docs/LInux/installazione-server.md",
-              "sourceDirName": "LInux",
-              "slug": "/LInux/installazione-server",
-              "permalink": "/docs/LInux/installazione-server",
+              "source": "@site/docs/Linux/installazione-server.md",
+              "sourceDirName": "Linux",
+              "slug": "/Linux/installazione-server",
+              "permalink": "/docs/Linux/installazione-server",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -137,6 +185,10 @@
               "previous": {
                 "title": "Linux",
                 "permalink": "/docs/category/linux"
+              },
+              "next": {
+                "title": "Installazione del Composer in ambiente Linux",
+                "permalink": "/docs/Linux/installazione-composer"
               }
             },
             {
@@ -357,7 +409,11 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "LInux/installazione-server"
+                    "id": "Linux/installazione-server"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Linux/installazione-composer"
                   }
                 ],
                 "link": {
@@ -365,6 +421,24 @@
                   "description": "Qui puoi trovare le guide relative a Linux",
                   "slug": "/category/linux",
                   "permalink": "/docs/category/linux"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Docker",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "docker/sql"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Qui puoi trovare le guide relative all'utilizzo dei container di Docker",
+                  "slug": "/category/docker",
+                  "permalink": "/docs/category/docker"
                 }
               }
             ]

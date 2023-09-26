@@ -1,0 +1,22 @@
+{
+  "unversionedId": "docker/sql",
+  "id": "docker/sql",
+  "title": "Docker",
+  "description": "1. Che cos'è Docker",
+  "source": "@site/docs/docker/sql.md",
+  "sourceDirName": "docker",
+  "slug": "/docker/sql",
+  "permalink": "/docs/docker/sql",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docker",
+    "permalink": "/docs/category/docker"
+  }
+}

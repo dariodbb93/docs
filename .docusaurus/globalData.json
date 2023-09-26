@@ -26,13 +26,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "docker/sql",
+              "path": "/docs/docker/sql",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "LInux/installazione-server",
-              "path": "/docs/LInux/installazione-server",
+              "id": "Linux/installazione-composer",
+              "path": "/docs/Linux/installazione-composer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Linux/installazione-server",
+              "path": "/docs/Linux/installazione-server",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -83,6 +93,11 @@
             {
               "id": "/category/linux",
               "path": "/docs/category/linux",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/docker",
+              "path": "/docs/category/docker",
               "sidebar": "tutorialSidebar"
             }
           ],
